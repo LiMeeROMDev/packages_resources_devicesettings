@@ -88,7 +88,7 @@
     <string name="moto_actions_title">動作行為</string>
     <string name="device_gestures_title">裝置手勢</string>
     <string name="device_gestures_summary">管理裝置手勢</string>
-    <string name="ambient_display_manage_summary">管理環境顯示手勢</string>
+    <string name="ambient_display_manage_summary">管理主動顯示手勢</string>
     <string name="fingerprint_gestures_title">指紋手勢</string>
     <string name="fingerprint_gestures_summary">使用指紋手勢</string>
     <string name="fingerprint_gestures_manage_summary">管理指紋手勢</string>
