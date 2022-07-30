@@ -16,8 +16,8 @@
 -->
 <resources>
     <string name="display_title">Paparan</string>
-    <string name="dc_dimming_enable_title">Anti kerlipan</string>
-    <string name="dc_dimming_enable_summary">Mod anti kerlipan membantu mengurangkan penglihatan mata dalam keadaan cahaya rendah dengan menggunakan ciri \"DC dimming\". Ini mungkin menurunkan ketepatan warna dan mempengaruhi cara beberapa item dipaparkan.</string>
+    <string name="dc_dimming_title">Anti kerlipan</string>
+    <string name="dc_dimming_summary">Mod anti kerlipan membantu mengurangkan penglihatan mata dalam keadaan cahaya rendah dengan menggunakan ciri \"DC dimming\". Ini mungkin menurunkan ketepatan warna dan mempengaruhi cara beberapa item dipaparkan.</string>
     <string name="dc_dimming_enable_summary_not_supported">Anti kerlipan pada masa ini tidak disokong oleh kernel</string>
     <string name="dirac_title">Penambah Bunyi Mi</string>
     <string name="dirac_summary">Optimumkan kualiti audio</string>

@@ -16,8 +16,8 @@
 -->
 <resources>
     <string name="display_title">ಡಿಸ್‌ಪ್ಲೇ:</string>
-    <string name="dc_dimming_enable_title">ಆಂಟಿ ಫ್ಲಿಕರ್ (Anti flicker)</string>
-    <string name="dc_dimming_enable_summary">\"DC dimming\"  ಮೋಡ್ ಮೂಲಕ ಆಂಟಿ ಫ್ಲಿಕರ್ ಮೋಡ್ ನಿಮ್ಮ ಕಣ್ಣುಗಳ ಮೇಲಾಗುವ ಸ್ಟ್ರೈನ್ ಅನ್ನು ಕಡಿಮೆ ಮಾಡಿಸುತ್ತದೆ. ಆದರೆ ಇದು ನಿಮ್ಮ ಸ್ಕ್ರೀನ್ ನ ಕಲರ್ ಆಕ್ಯುರೆಸಿ ಕಡಿಮೆ ಮಾಡುತ್ತದೆ</string>
+    <string name="dc_dimming_title">ಆಂಟಿ ಫ್ಲಿಕರ್ (Anti flicker)</string>
+    <string name="dc_dimming_summary">\"DC dimming\"  ಮೋಡ್ ಮೂಲಕ ಆಂಟಿ ಫ್ಲಿಕರ್ ಮೋಡ್ ನಿಮ್ಮ ಕಣ್ಣುಗಳ ಮೇಲಾಗುವ ಸ್ಟ್ರೈನ್ ಅನ್ನು ಕಡಿಮೆ ಮಾಡಿಸುತ್ತದೆ. ಆದರೆ ಇದು ನಿಮ್ಮ ಸ್ಕ್ರೀನ್ ನ ಕಲರ್ ಆಕ್ಯುರೆಸಿ ಕಡಿಮೆ ಮಾಡುತ್ತದೆ</string>
     <string name="dc_dimming_enable_summary_not_supported">ಆಂಟಿ ಫ್ಲಿಕರ್ ಮೋಡ್ ಸಪೋರ್ಟ್ ಇಲ್ಲ</string>
     <string name="dirac_enable">MI ಸೌಂಡ್ ಎನ್ಹನ್ಸರ್ ಬಳಸಿ</string>
     <string name="dirac_title">Mi ಧ್ವನಿ ಎನ್‌ಹ್ಯಾನ್ಸರ್‌‌</string>

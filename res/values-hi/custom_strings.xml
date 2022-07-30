@@ -16,8 +16,8 @@
 -->
 <resources>
     <string name="display_title">Tampilan</string>
-    <string name="dc_dimming_enable_title">Anti kerlip</string>
-    <string name="dc_dimming_enable_summary">Mode anti kerlip membantu mengurangi kelelahan mata dalam kondisi cahaya redup dengan menggunakan fitur \"Peredupan DC\". Ini dapat menurunkan akurasi warna dan mempengaruhi cara beberapa item ditampilkan.</string>
+    <string name="dc_dimming_title">Anti kerlip</string>
+    <string name="dc_dimming_summary">Mode anti kerlip membantu mengurangi kelelahan mata dalam kondisi cahaya redup dengan menggunakan fitur \"Peredupan DC\". Ini dapat menurunkan akurasi warna dan mempengaruhi cara beberapa item ditampilkan.</string>
     <string name="dc_dimming_enable_summary_not_supported">एंटी फ़्लिकर वर्तमान में कर्नेल द्वारा समर्थित नहीं है</string>
     <string name="dirac_title">Mi ध्वनि एन्हांसर</string>
     <string name="dirac_summary">Optimalkan kualitas audio</string>

@@ -16,8 +16,8 @@
 -->
 <resources>
     <string name="display_title">Näyttö</string>
-    <string name="dc_dimming_enable_title">Vilkkumisen esto</string>
-    <string name="dc_dimming_enable_summary">Vilkkumisen esto tila vähentää silmien väsymistä vähäisessä valossa käyttämällä \"DC hämärrys\" ominaisuutta. Se voi heikentää väritoiston tarkkuutta ja se voi vaikuttaa miten jotkin kohteet näkyvät näytöllä.</string>
+    <string name="dc_dimming_title">Vilkkumisen esto</string>
+    <string name="dc_dimming_summary">Vilkkumisen esto tila vähentää silmien väsymistä vähäisessä valossa käyttämällä \"DC hämärrys\" ominaisuutta. Se voi heikentää väritoiston tarkkuutta ja se voi vaikuttaa miten jotkin kohteet näkyvät näytöllä.</string>
     <string name="dc_dimming_enable_summary_not_supported">Vilkkumattomuuden poisto ei ole nyt kernelin tukema</string>
     <string name="dirac_enable">Käytä Mi Sound Enhanceria</string>
     <string name="dirac_title">Mi Sound Enhancer</string>

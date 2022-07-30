@@ -16,8 +16,10 @@
 -->
 <resources>
     <string name="display_title">顯示</string>
-    <string name="dc_dimming_enable_title">防閃爍</string>
-    <string name="dc_dimming_enable_summary">防閃爍模式透過使用「DC 調光」功能來協助減少低光源環境下的眼睛疲勞。這可能會降機色彩準確性，並影響某些項目的顯示方式。</string>
+    <string name="dc_dimming_enable_title">使用 DC 調光功能</string>
+    <string name="dc_dimming_enable_summary">最大限度防止荧幕閃爍</string>
+    <string name="dc_dimming_title">防閃爍</string>
+    <string name="dc_dimming_summary">防閃爍模式透過使用「DC 調光」功能來協助減少低光源環境下的眼睛疲勞。這可能會降機色彩準確性，並影響某些項目的顯示方式。</string>
     <string name="dc_dimming_enable_summary_not_supported">此內核當前不支持防閃爍</string>
     <string name="dirac_enable">使用米音提升音質</string>
     <string name="dirac_title">使用米音提升音質</string>

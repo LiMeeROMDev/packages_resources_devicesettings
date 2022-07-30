@@ -16,8 +16,8 @@
 -->
 <resources>
     <string name="display_title">Obrazovka</string>
-    <string name="dc_dimming_enable_title">Eliminácia blikania</string>
-    <string name="dc_dimming_enable_summary">Režim \"Eliminácia blikania\" pomáha obmedziť blikanie pri zhoršených svetelných podmienkach pomocou funkcie \"DC-Dimming. Môže to znížiť presnosť farieb a ovplyvniť spôsob zobrazenia niektorých položiek.</string>
+    <string name="dc_dimming_title">Eliminácia blikania</string>
+    <string name="dc_dimming_summary">Režim \"Eliminácia blikania\" pomáha obmedziť blikanie pri zhoršených svetelných podmienkach pomocou funkcie \"DC-Dimming. Môže to znížiť presnosť farieb a ovplyvniť spôsob zobrazenia niektorých položiek.</string>
     <string name="dc_dimming_enable_summary_not_supported">Eliminácia blikania v súčasnosti nie je podporovaná jadrom</string>
     <string name="dirac_enable">Použít Mi Sound Enhancer</string>
     <string name="dirac_title">Vylepšenia Mi Sound</string>

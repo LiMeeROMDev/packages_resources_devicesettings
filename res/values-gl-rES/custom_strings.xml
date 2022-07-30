@@ -17,8 +17,8 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Pantalla</string>
-    <string name="dc_dimming_enable_title">Anti pestanexo</string>
-    <string name="dc_dimming_enable_summary">O modo anti-pestanexo axuda a diminuir o cansazo ocular en condicións de pouca luz mediante a función de \"escurecemento DC\".  Pode degradar a precisión da cor e afectar ao xeito en que se amosan algúns elementos.</string>
+    <string name="dc_dimming_title">Anti pestanexo</string>
+    <string name="dc_dimming_summary">O modo anti-pestanexo axuda a diminuir o cansazo ocular en condicións de pouca luz mediante a función de \"escurecemento DC\".  Pode degradar a precisión da cor e afectar ao xeito en que se amosan algúns elementos.</string>
     <!-- Dirac settings -->
     <string name="dirac_title">Potenciador Mi Sound</string>
     <string name="dirac_summary">Optimizar a calidade do son</string>

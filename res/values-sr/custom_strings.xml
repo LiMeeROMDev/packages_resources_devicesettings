@@ -16,8 +16,8 @@
 -->
 <resources>
     <string name="display_title">Екран</string>
-    <string name="dc_dimming_enable_title">Спречавање треперења</string>
-    <string name="dc_dimming_enable_summary">Режим спречавања треперења помаже у смањењу напрезања очију у условима слабог осветљења користећи \"DC dimming\". Могуће је смањење тачности боја и другачије приказивање неких ставки.</string>
+    <string name="dc_dimming_title">Спречавање треперења</string>
+    <string name="dc_dimming_summary">Режим спречавања треперења помаже у смањењу напрезања очију у условима слабог осветљења користећи \"DC dimming\". Могуће је смањење тачности боја и другачије приказивање неких ставки.</string>
     <string name="dc_dimming_enable_summary_not_supported">Спречавање треперења тренутно није подржан од стране кернела</string>
     <string name="dirac_title">Mi Sound Побољшање звука</string>
     <string name="dirac_summary">Оптимизовање квалитета звука</string>

@@ -16,8 +16,8 @@
 -->
 <resources>
     <string name="display_title">Дисплей</string>
-    <string name="dc_dimming_enable_title">Анти трептене</string>
-    <string name="dc_dimming_enable_summary">Режимът \"анти трептене\" помага за намаляване на напрежението в очите при условия на слаба светлина, като използва функцията \"DC затъмняване\". Това може да влоши точността на цветовете и да повлияе на начина на показване на някои елементи.</string>
+    <string name="dc_dimming_title">Анти трептене</string>
+    <string name="dc_dimming_summary">Режимът \"анти трептене\" помага за намаляване на напрежението в очите при условия на слаба светлина, като използва функцията \"DC затъмняване\". Това може да влоши точността на цветовете и да повлияе на начина на показване на някои елементи.</string>
     <string name="dc_dimming_enable_summary_not_supported">Понастоящем ядрото не поддържа анти трептене</string>
     <string name="dirac_enable">Използвайте Mi Sound Enhancer</string>
     <string name="dirac_title">Използване на MiSound enhancer</string>

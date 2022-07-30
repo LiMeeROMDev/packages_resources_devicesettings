@@ -16,8 +16,8 @@
 -->
 <resources>
     <string name="display_title">디스플레이</string>
-    <string name="dc_dimming_enable_title">깜박임 방지</string>
-    <string name="dc_dimming_enable_summary">깜박임 방지 모드는 \"DC 디밍\"기능을 사용하여 저조도 조건에서 눈의 피로를 줄이는 데 도움이됩니다.  색상 정확도가 떨어지고 일부 항목이 표시되는 방식에 영향을 미칠 수 있습니다.</string>
+    <string name="dc_dimming_title">깜박임 방지</string>
+    <string name="dc_dimming_summary">깜박임 방지 모드는 \"DC 디밍\"기능을 사용하여 저조도 조건에서 눈의 피로를 줄이는 데 도움이됩니다.  색상 정확도가 떨어지고 일부 항목이 표시되는 방식에 영향을 미칠 수 있습니다.</string>
     <string name="dc_dimming_enable_summary_not_supported">깜빡임 방지 기능은 커널에 의해 현재 지원되지 않습니다</string>
     <string name="dirac_enable">Mi 사운드 인핸서 사용</string>
     <string name="dirac_title">Mi 사운드 강화</string>

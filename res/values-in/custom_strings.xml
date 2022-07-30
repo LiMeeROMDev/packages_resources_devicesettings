@@ -16,8 +16,8 @@
 -->
 <resources>
     <string name="display_title">Tampilan</string>
-    <string name="dc_dimming_enable_title">Anti kerlip</string>
-    <string name="dc_dimming_enable_summary">Mode anti kerlip membantu mengurangi kelelahan mata dalam kondisi cahaya redup dengan menggunakan fitur \"Peredupan DC\". Ini dapat menurunkan akurasi warna dan mempengaruhi cara beberapa item ditampilkan.</string>
+    <string name="dc_dimming_title">Anti kerlip</string>
+    <string name="dc_dimming_summary">Mode anti kerlip membantu mengurangi kelelahan mata dalam kondisi cahaya redup dengan menggunakan fitur \"Peredupan DC\". Ini dapat menurunkan akurasi warna dan mempengaruhi cara beberapa item ditampilkan.</string>
     <string name="dc_dimming_enable_summary_not_supported">Anti flicker saat ini tidak didukung oleh kernel</string>
     <string name="dirac_enable">Gunakan Mi Sound Enhancer</string>
     <string name="dirac_title">Mi Sound Enhancer</string>

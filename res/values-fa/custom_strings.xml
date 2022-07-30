@@ -16,8 +16,8 @@
 -->
 <resources>
     <string name="display_title">صفحه نمایش</string>
-    <string name="dc_dimming_enable_title">ضد پرش تصویر</string>
-    <string name="dc_dimming_enable_summary">ممکن است دقت رنگ را تضعیف کرده و نحوه نمایش برخی موارد را تحت تأثیر قرار دهد.</string>
+    <string name="dc_dimming_title">ضد پرش تصویر</string>
+    <string name="dc_dimming_summary">ممکن است دقت رنگ را تضعیف کرده و نحوه نمایش برخی موارد را تحت تأثیر قرار دهد.</string>
     <string name="dc_dimming_enable_summary_not_supported">درحال حاضر قابلیت ضد پرش تصویر توسط کرنل پشتیبانی نمیشود</string>
     <string name="dirac_enable">تقویت‌کننده صدای Mi</string>
     <string name="dirac_title">تقویت‌کننده صدای Mi</string>

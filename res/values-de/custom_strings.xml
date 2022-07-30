@@ -16,8 +16,8 @@
 -->
 <resources>
     <string name="display_title">Bildschirm</string>
-    <string name="dc_dimming_enable_title">Anti-Flimmern</string>
-    <string name="dc_dimming_enable_summary">Der Anti-Flimmer-Modus reduziert die Überanstrengung der Augen bei schlechten Lichtverhältnissen durch Verwendung der Funktion \"DC-Dimmen\". Dies kann die Farbgenauigkeit beeinträchtigen und die Anzeige einiger Elemente beeinträchtigen.</string>
+    <string name="dc_dimming_title">Anti-Flimmern</string>
+    <string name="dc_dimming_summary">Der Anti-Flimmer-Modus reduziert die Überanstrengung der Augen bei schlechten Lichtverhältnissen durch Verwendung der Funktion \"DC-Dimmen\". Dies kann die Farbgenauigkeit beeinträchtigen und die Anzeige einiger Elemente beeinträchtigen.</string>
     <string name="dc_dimming_enable_summary_not_supported">Anti-Flicker wird derzeit vom Kernel nicht unterstützt</string>
     <string name="dirac_enable">Nutze die Mi Klangverbesserung</string>
     <string name="dirac_title">Mi Klangverbesserung</string>

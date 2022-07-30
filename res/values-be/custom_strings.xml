@@ -16,8 +16,8 @@
 -->
 <resources>
     <string name="display_title">Дысплэй</string>
-    <string name="dc_dimming_enable_title">Анты-мігаценне</string>
-    <string name="dc_dimming_enable_summary">Рэжым барацьбы з мігаценнем дапамагае знізіць напружанне вачэй ва ўмовах нізкай асветленасці пры дапамозе функцыі \"DC dimming\". Гэта можа пагоршыць дакладнасць колеру і паўплываць на адлюстраванне некаторых прадметаў.</string>
+    <string name="dc_dimming_title">Анты-мігаценне</string>
+    <string name="dc_dimming_summary">Рэжым барацьбы з мігаценнем дапамагае знізіць напружанне вачэй ва ўмовах нізкай асветленасці пры дапамозе функцыі \"DC dimming\". Гэта можа пагоршыць дакладнасць колеру і паўплываць на адлюстраванне некаторых прадметаў.</string>
     <string name="dc_dimming_enable_summary_not_supported">Абарона ад мігцення экрана пакуль не падтрымліваецца ярдром</string>
     <string name="dirac_enable">Выкарыстоўвайце паляпшэнне гуку Mi</string>
     <string name="dirac_title">Паляпшэнне гуку Mi</string>

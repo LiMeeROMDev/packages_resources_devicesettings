@@ -16,8 +16,8 @@
 -->
 <resources>
     <string name="display_title">Display</string>
-    <string name="dc_dimming_enable_title">Anti flicker</string>
-    <string name="dc_dimming_enable_summary">Ang Anti flicker mode ay nakakatulong sa pag-bawas ng sakit sa mata kapag madilim - sa pamamagitan ng feature na \"DC dimming\". Maaaring mabawasan ang accuracy ng kulay at maapektuhan ang pag-display sa ibang mga bagay.</string>
+    <string name="dc_dimming_title">Anti flicker</string>
+    <string name="dc_dimming_summary">Ang Anti flicker mode ay nakakatulong sa pag-bawas ng sakit sa mata kapag madilim - sa pamamagitan ng feature na \"DC dimming\". Maaaring mabawasan ang accuracy ng kulay at maapektuhan ang pag-display sa ibang mga bagay.</string>
     <string name="dc_dimming_enable_summary_not_supported">Ang Anti flicker mode ay kasalukuyang hindi suportado ng kernel</string>
     <string name="dirac_enable">Gamitin ang Mi Sound Enhancer</string>
     <string name="dirac_title">Mi Sound Enhancer</string>

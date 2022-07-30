@@ -16,8 +16,8 @@
 -->
 <resources>
     <string name="display_title">Zaslon</string>
-    <string name="dc_dimming_enable_title">Bez treperenja</string>
-    <string name="dc_dimming_enable_summary">Način rada bez treperenja pomaže smanjenju naprezanja očiju u uvjetima slabog osvjetljenja pomoću značajke \"DC zatamnjenja\". To može smanjiti točnost boje i utjecati na način prikazivanja pojedinih predmeta.</string>
+    <string name="dc_dimming_title">Bez treperenja</string>
+    <string name="dc_dimming_summary">Način rada bez treperenja pomaže smanjenju naprezanja očiju u uvjetima slabog osvjetljenja pomoću značajke \"DC zatamnjenja\". To može smanjiti točnost boje i utjecati na način prikazivanja pojedinih predmeta.</string>
     <string name="dc_dimming_enable_summary_not_supported">Kernel trenutno ne podržava zaštitu od treperenja</string>
     <string name="dirac_enable">Koristi Mi Sound Enhancer</string>
     <string name="dirac_title">Mi Sound Enhancer</string>

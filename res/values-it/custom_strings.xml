@@ -16,8 +16,8 @@
 -->
 <resources>
     <string name="display_title">Display</string>
-    <string name="dc_dimming_enable_title">Anti sfarfallio</string>
-    <string name="dc_dimming_enable_summary">La modalità anti-sfarfallio aiuta a ridurre l\'affaticamento degli occhi in condizioni di scarsa luminosità utilizzando la funzione \"DC dimming\". Essa potrebbe diminuire l\'accuratezza dei colori ed influire sul modo in cui alcuni elementi sono visualizzati.</string>
+    <string name="dc_dimming_title">Anti sfarfallio</string>
+    <string name="dc_dimming_summary">La modalità anti-sfarfallio aiuta a ridurre l\'affaticamento degli occhi in condizioni di scarsa luminosità utilizzando la funzione \"DC dimming\". Essa potrebbe diminuire l\'accuratezza dei colori ed influire sul modo in cui alcuni elementi sono visualizzati.</string>
     <string name="dc_dimming_enable_summary_not_supported">L\'anti-sfarfallio non è attualmente supportato dal kernel</string>
     <string name="dirac_enable">Usa \"Mi Sound Enhancer\"</string>
     <string name="dirac_title">Ottimizzazione Mi Sound</string>

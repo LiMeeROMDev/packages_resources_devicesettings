@@ -17,8 +17,10 @@
 <resources>
     <!-- DC Dimming settings -->
     <string name="display_title">Display</string>
-    <string name="dc_dimming_enable_title">Anti flicker</string>
-    <string name="dc_dimming_enable_summary">Anti flicker mode helps reducing eyestrain in low light conditions by using "DC dimming" feature. It might degrade color accuracy and affect the way some items are displayed.</string>
+    <string name="dc_dimming_enable_title">Enable DC Dimming</string>
+    <string name="dc_dimming_enable_summary">Minimize screen flickering</string>
+    <string name="dc_dimming_title">Anti flicker</string>
+    <string name="dc_dimming_summary">Reducing eyestrain in low light conditions by using "DC dimming" feature.</string>
     <string name="dc_dimming_enable_summary_not_supported">Anti flicker is currently not supported by the kernel</string>
 
     <!-- Dirac settings -->

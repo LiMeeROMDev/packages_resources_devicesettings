@@ -16,8 +16,8 @@
 -->
 <resources>
     <string name="display_title">Display</string>
-    <string name="dc_dimming_enable_title">Anti-pâlpâire</string>
-    <string name="dc_dimming_enable_summary">Modul anti-flicker ajută la reducerea oboselii ochilor în condiții de lumină slabă, utilizând funcția „DC dimming”. S-ar putea să degradeze precizia culorii și să afecteze modul în care sunt afișate unele elemente.</string>
+    <string name="dc_dimming_title">Anti-pâlpâire</string>
+    <string name="dc_dimming_summary">Modul anti-flicker ajută la reducerea oboselii ochilor în condiții de lumină slabă, utilizând funcția „DC dimming”. S-ar putea să degradeze precizia culorii și să afecteze modul în care sunt afișate unele elemente.</string>
     <string name="dc_dimming_enable_summary_not_supported">Anti-pâlpâirea nu este suportată de către nucleu</string>
     <string name="dirac_enable">Utilizați amplificatorul Mi Sound</string>
     <string name="dirac_title">Amplificatorul Mi Sound</string>

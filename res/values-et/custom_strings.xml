@@ -16,8 +16,8 @@
 -->
 <resources>
     <string name="display_title">Ekraan</string>
-    <string name="dc_dimming_enable_title">Virvendusfilter</string>
-    <string name="dc_dimming_enable_summary">Virvendusfiltri reziim aitab DC Dimm-i abil vähendada silmade väsimust hämaras. See võib vähendada värvide täpsust ja mõjutada mõne üksuse kuvamist.</string>
+    <string name="dc_dimming_title">Virvendusfilter</string>
+    <string name="dc_dimming_summary">Virvendusfiltri reziim aitab DC Dimm-i abil vähendada silmade väsimust hämaras. See võib vähendada värvide täpsust ja mõjutada mõne üksuse kuvamist.</string>
     <string name="dc_dimming_enable_summary_not_supported">Tuum ei toeta praegu virvendustõrjet</string>
     <string name="dirac_enable">Kasutage Mi Heli Parandajat</string>
     <string name="dirac_title">Mi Heli Parandaja</string>

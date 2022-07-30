@@ -16,8 +16,8 @@
 -->
 <resources>
     <string name="display_title">Wyświetlacz</string>
-    <string name="dc_dimming_enable_title">Przeciwdoblaskowy</string>
-    <string name="dc_dimming_enable_summary">Tryb Anti-flicker pomaga zmniejszyć zmęczenie oczu w warunkach słabego oświetlenia dzięki funkcji „DC Dimming”. Może to pogorszyć dokładność kolorów i wpłynąć na sposób wyświetlania niektórych elementów.</string>
+    <string name="dc_dimming_title">Przeciwdoblaskowy</string>
+    <string name="dc_dimming_summary">Tryb Anti-flicker pomaga zmniejszyć zmęczenie oczu w warunkach słabego oświetlenia dzięki funkcji „DC Dimming”. Może to pogorszyć dokładność kolorów i wpłynąć na sposób wyświetlania niektórych elementów.</string>
     <string name="dc_dimming_enable_summary_not_supported">Anti flicker nie jest obecnie obsługiwany przez jądro</string>
     <string name="dirac_enable">Użyj Mi Sound Enhancer</string>
     <string name="dirac_title">Ulepszanie dźwięku Mi</string>

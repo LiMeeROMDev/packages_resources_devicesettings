@@ -16,8 +16,8 @@
 -->
 <resources>
     <string name="display_title">תצוגה</string>
-    <string name="dc_dimming_enable_title">אנטי־הבהוב</string>
-    <string name="dc_dimming_enable_summary">מצב נגד הבהוב מסייע בהפחתת מתיחת עיניים בתנאי תאורה נמוכים באמצעות התכונה \"עמעום DC\". זה עלול להשפיל את דיוק הצבעים ולהשפיע על אופן הצגתם של פריטים מסוימים.</string>
+    <string name="dc_dimming_title">אנטי־הבהוב</string>
+    <string name="dc_dimming_summary">מצב נגד הבהוב מסייע בהפחתת מתיחת עיניים בתנאי תאורה נמוכים באמצעות התכונה \"עמעום DC\". זה עלול להשפיל את דיוק הצבעים ולהשפיע על אופן הצגתם של פריטים מסוימים.</string>
     <string name="dc_dimming_enable_summary_not_supported">מניעת הבהוב לא נתמכת כרגע על־ידי קרנל זה</string>
     <string name="dirac_enable">משפר סאונד ישיר</string>
     <string name="dirac_title">מגבר צלילים Mi</string>

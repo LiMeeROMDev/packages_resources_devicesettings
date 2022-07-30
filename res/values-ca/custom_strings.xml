@@ -16,8 +16,8 @@
 -->
 <resources>
     <string name="display_title">Pantalla</string>
-    <string name="dc_dimming_enable_title">Anti-parpelleig</string>
-    <string name="dc_dimming_enable_summary">El mode anti-parpelleig ajuda a reduir la irritació ocular en condicions de baixa llum mitjançant l\'ús de la característica \"DC Dimming\". Pot degradar la precisió del color i afectar la manera en què es mostren alguns elements.</string>
+    <string name="dc_dimming_title">Anti-parpelleig</string>
+    <string name="dc_dimming_summary">El mode anti-parpelleig ajuda a reduir la irritació ocular en condicions de baixa llum mitjançant l\'ús de la característica \"DC Dimming\". Pot degradar la precisió del color i afectar la manera en què es mostren alguns elements.</string>
     <string name="dc_dimming_enable_summary_not_supported">El kernel no té suport per l\'anti-parpelleig</string>
     <string name="dirac_enable">Potenciador de so Mi</string>
     <string name="dirac_title">Potenciador de so Mi</string>

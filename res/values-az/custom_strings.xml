@@ -16,8 +16,8 @@
 -->
 <resources>
     <string name="display_title">Görüntü</string>
-    <string name="dc_dimming_enable_title">Titrəməyə qarşı</string>
-    <string name="dc_dimming_enable_summary">Titrəməyə qarşı rejimi, \"DC qaraltma\" özəlliyini istifadə edərək zəif işıq şərtlərində göz yorğunluğunu azaltmağa kömək edir. Rəng dəqiqliyi azalda bilər və bəzi elementlərin görüntüləmə formasına təsir edə bilər.</string>
+    <string name="dc_dimming_title">Titrəməyə qarşı</string>
+    <string name="dc_dimming_summary">Titrəməyə qarşı rejimi, \"DC qaraltma\" özəlliyini istifadə edərək zəif işıq şərtlərində göz yorğunluğunu azaltmağa kömək edir. Rəng dəqiqliyi azalda bilər və bəzi elementlərin görüntüləmə formasına təsir edə bilər.</string>
     <string name="dc_dimming_enable_summary_not_supported">Anti-titrəmə hazırda nüvə tərəfindən dəstəklənmir</string>
     <string name="dirac_enable">Mi Səs Gücləndiricini istifadə et</string>
     <string name="dirac_title">Mi Səs Gücləndirici</string>

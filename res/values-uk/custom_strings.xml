@@ -16,8 +16,8 @@
 -->
 <resources>
     <string name="display_title">Показати</string>
-    <string name="dc_dimming_enable_title">Анти мерехтіння</string>
-    <string name="dc_dimming_enable_summary">Режим проти мерехтіння сприяє зменшенню напруги очей в умовах слабкої освітленості за допомогою функції \"DC dimming\". Це може погіршити точність кольорів і вплинути на спосіб відображення деяких елементів.</string>
+    <string name="dc_dimming_title">Анти мерехтіння</string>
+    <string name="dc_dimming_summary">Режим проти мерехтіння сприяє зменшенню напруги очей в умовах слабкої освітленості за допомогою функції \"DC dimming\". Це може погіршити точність кольорів і вплинути на спосіб відображення деяких елементів.</string>
     <string name="dc_dimming_enable_summary_not_supported">Функція антимерехтіння на даний момент не підтримується ядром</string>
     <string name="dirac_enable">Використовуйте Mi Sound Enhancer</string>
     <string name="dirac_title">Покращення звуку \"Мі Sound\"</string>

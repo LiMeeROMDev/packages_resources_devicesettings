@@ -16,8 +16,8 @@
 -->
 <resources>
     <string name="display_title">Képernyő</string>
-    <string name="dc_dimming_enable_title">Vibrálásmentesítés</string>
-    <string name="dc_dimming_enable_summary">A vibrálásmentesítés (\"DC dimming\") csökkenti a szemfáradást gyenge fényviszonyok esetén. De sajnos a képminőséget, színhelyességet is gyengíti.</string>
+    <string name="dc_dimming_title">Vibrálásmentesítés</string>
+    <string name="dc_dimming_summary">A vibrálásmentesítés (\"DC dimming\") csökkenti a szemfáradást gyenge fényviszonyok esetén. De sajnos a képminőséget, színhelyességet is gyengíti.</string>
     <string name="dc_dimming_enable_summary_not_supported">A vibrálásmentesítőt jelenleg nem támogatja a kernel</string>
     <string name="dirac_enable">Mi Hangjavítás használata</string>
     <string name="dirac_title">Mi Hangjavítás</string>

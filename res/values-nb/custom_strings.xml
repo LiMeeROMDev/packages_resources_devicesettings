@@ -16,8 +16,8 @@
 -->
 <resources>
     <string name="display_title">Skjerm</string>
-    <string name="dc_dimming_enable_title">Antiflimmer</string>
-    <string name="dc_dimming_enable_summary">Antiflimmer-modus reduserer øyebelastning i mørke omgivelser ved bruk av \"DC dimming\". Det kan føre til dårligere fargegjengivelse og påvirke visningen av enkelte elementer.</string>
+    <string name="dc_dimming_title">Antiflimmer</string>
+    <string name="dc_dimming_summary">Antiflimmer-modus reduserer øyebelastning i mørke omgivelser ved bruk av \"DC dimming\". Det kan føre til dårligere fargegjengivelse og påvirke visningen av enkelte elementer.</string>
     <string name="dc_dimming_enable_summary_not_supported">Antiflimmer er ikke støttet av den installerte kjerneversjonen</string>
     <string name="dirac_title">Mi lydforbedrer</string>
     <string name="dirac_summary">Optimaliser lydkvaliteten</string>

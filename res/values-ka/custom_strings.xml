@@ -16,8 +16,8 @@
 -->
 <resources>
     <string name="display_title">ჩვენება</string>
-    <string name="dc_dimming_enable_title">ციმციმის საწინააღმდეგო</string>
-    <string name="dc_dimming_enable_summary">ციმციმის საწინააღმდეგო რეჟიმი გეხმარებათ შეამციროთ თვალების დაძაბვა დაბალი ნათების მდგომარეობაში \"DC ჩამუქების\" ფუნქციის გამოყენებით. მან შეიძლება დაადაბლოს ფერების სიზუსტე და იმოქმედოს ზოგიერთ გამოჩენილ ელემენტზე.</string>
+    <string name="dc_dimming_title">ციმციმის საწინააღმდეგო</string>
+    <string name="dc_dimming_summary">ციმციმის საწინააღმდეგო რეჟიმი გეხმარებათ შეამციროთ თვალების დაძაბვა დაბალი ნათების მდგომარეობაში \"DC ჩამუქების\" ფუნქციის გამოყენებით. მან შეიძლება დაადაბლოს ფერების სიზუსტე და იმოქმედოს ზოგიერთ გამოჩენილ ელემენტზე.</string>
     <string name="dc_dimming_enable_summary_not_supported">ციმციმის საწინააღმდეგო არ არის მხარდაჭერილი kernel ის მიერ</string>
     <string name="dirac_enable">გამოიყენეთ Mi ხმის გამაუმჯობესებელი</string>
     <string name="dirac_title">Mi ხმის გამაუმჯობესებელი</string>

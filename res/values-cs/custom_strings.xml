@@ -16,8 +16,8 @@
 -->
 <resources>
     <string name="display_title">Displej</string>
-    <string name="dc_dimming_enable_title">Eliminace blikání</string>
-    <string name="dc_dimming_enable_summary">Režim \"Eliminace blikání\" pomáhá omezit blikání při zhoršených světelných podmínkách pomocí funkce \"DC-Dimming. Může to snížit přesnost barev a ovlivnit způsob zobrazení některých položek.</string>
+    <string name="dc_dimming_title">Eliminace blikání</string>
+    <string name="dc_dimming_summary">Režim \"Eliminace blikání\" pomáhá omezit blikání při zhoršených světelných podmínkách pomocí funkce \"DC-Dimming. Může to snížit přesnost barev a ovlivnit způsob zobrazení některých položek.</string>
     <string name="dc_dimming_enable_summary_not_supported">Eliminace blikání není momentálně jádrem podporována</string>
     <string name="dirac_enable">Použít Mi Sound Enhancer</string>
     <string name="dirac_title">Vylepšení Mi Sound</string>

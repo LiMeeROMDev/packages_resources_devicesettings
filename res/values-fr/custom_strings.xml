@@ -16,8 +16,8 @@
 -->
 <resources>
     <string name="display_title">Affichage</string>
-    <string name="dc_dimming_enable_title">Anti-scintillement</string>
-    <string name="dc_dimming_enable_summary">Le mode anti-scintillement aide à réduire la fatigue oculaire dans des conditions de faible lumière en utilisant la fonction \"DC dégradation\". Cela peut dégrader la précision des couleurs et affecter les éléments affichés à l\'écran.</string>
+    <string name="dc_dimming_title">Anti-scintillement</string>
+    <string name="dc_dimming_summary">Le mode anti-scintillement aide à réduire la fatigue oculaire dans des conditions de faible lumière en utilisant la fonction \"DC dégradation\". Cela peut dégrader la précision des couleurs et affecter les éléments affichés à l\'écran.</string>
     <string name="dc_dimming_enable_summary_not_supported">Le mode anti-scintillement n\'est actuellement pas supporté par le noyau</string>
     <string name="dirac_enable">Utiliser Mi Sound Enhancer</string>
     <string name="dirac_title">Amélioration audio Mi</string>

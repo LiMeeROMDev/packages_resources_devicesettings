@@ -16,8 +16,8 @@
 -->
 <resources>
     <string name="display_title">Tela</string>
-    <string name="dc_dimming_enable_title">Modo anti cintilação</string>
-    <string name="dc_dimming_enable_summary">O modo anti cintilação ajuda a reduzir a fadiga ocular em condições de pouca luz usando o recurso \"DC dimming\". Isso pode degradar a precisão das cores e afetar a forma como alguns itens são exibidos.</string>
+    <string name="dc_dimming_title">Modo anti cintilação</string>
+    <string name="dc_dimming_summary">O modo anti cintilação ajuda a reduzir a fadiga ocular em condições de pouca luz usando o recurso \"DC dimming\". Isso pode degradar a precisão das cores e afetar a forma como alguns itens são exibidos.</string>
     <string name="dc_dimming_enable_summary_not_supported">O modo anti cintilação não é suportado pelo kernel atual</string>
     <string name="dirac_enable">Usar Mi Sound Enhancer</string>
     <string name="dirac_title">Mi Sound Enhancer</string>

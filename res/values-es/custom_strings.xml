@@ -16,8 +16,8 @@
 -->
 <resources>
     <string name="display_title">Pantalla</string>
-    <string name="dc_dimming_enable_title">Anti parpadeo</string>
-    <string name="dc_dimming_enable_summary">El modo anti-parpadeo ayuda a reducir la fatiga visual en condiciones de baja luz, utilizando la función \"atenuación DC\". Esto podría disminuir la precisión del color y podría afectar la forma en la que se visualizan algunos elementos.</string>
+    <string name="dc_dimming_title">Anti parpadeo</string>
+    <string name="dc_dimming_summary">El modo anti-parpadeo ayuda a reducir la fatiga visual en condiciones de baja luz, utilizando la función \"atenuación DC\". Esto podría disminuir la precisión del color y podría afectar la forma en la que se visualizan algunos elementos.</string>
     <string name="dc_dimming_enable_summary_not_supported">Actualmente el anti-parpadeo no es compatible con el kernel</string>
     <string name="dirac_enable">Usar Mi Sound Enhancer</string>
     <string name="dirac_title">Mi Sound Enhancer</string>

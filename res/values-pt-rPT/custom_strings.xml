@@ -16,8 +16,8 @@
 -->
 <resources>
     <string name="display_title">Ecrã</string>
-    <string name="dc_dimming_enable_title">Anti Cintilação</string>
-    <string name="dc_dimming_enable_summary">O modo anti-cintilação ajuda a reduzir a fadiga visual através do uso da funcionalidade \"DC dimming\". Pode diminuir a qualidade das cores e afetar a forma como alguns itens são exibidos.</string>
+    <string name="dc_dimming_title">Anti Cintilação</string>
+    <string name="dc_dimming_summary">O modo anti-cintilação ajuda a reduzir a fadiga visual através do uso da funcionalidade \"DC dimming\". Pode diminuir a qualidade das cores e afetar a forma como alguns itens são exibidos.</string>
     <string name="dc_dimming_enable_summary_not_supported">Anti Cintilação não é suportado por este kernel</string>
     <string name="dirac_enable">Utilizar melhoramento de som Mi</string>
     <string name="dirac_title">Amplificador Mi Sound</string>

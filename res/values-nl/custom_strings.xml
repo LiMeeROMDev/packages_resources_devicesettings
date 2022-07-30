@@ -16,8 +16,8 @@
 -->
 <resources>
     <string name="display_title">Scherm</string>
-    <string name="dc_dimming_enable_title">Anti-flicker</string>
-    <string name="dc_dimming_enable_summary">De Anti-flicker-instelling helpt visuele vermoeidheid door weinig licht te verminderen d.m.v. de \"DC-dimming\"-functie. Het kan de kleurzuiverheid aantasten en invloed hebben op de wijze waarop sommige dingen worden weergegeven.</string>
+    <string name="dc_dimming_title">Anti-flicker</string>
+    <string name="dc_dimming_summary">De Anti-flicker-instelling helpt visuele vermoeidheid door weinig licht te verminderen d.m.v. de \"DC-dimming\"-functie. Het kan de kleurzuiverheid aantasten en invloed hebben op de wijze waarop sommige dingen worden weergegeven.</string>
     <string name="dc_dimming_enable_summary_not_supported">Anti-flicker wordt momenteel niet ondersteund door de kernel</string>
     <string name="dirac_enable">Gebruik Mi Geluid Versterker</string>
     <string name="dirac_title">Mi Geluid Verbeteraar</string>

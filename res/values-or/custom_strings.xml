@@ -16,8 +16,8 @@
 -->
 <resources>
     <string name="display_title">ପ୍ରଦର୍ଶନ</string>
-    <string name="dc_dimming_enable_title">ଆଣ୍ଟି ଫ୍ଲିକର୍ |</string>
-    <string name="dc_dimming_enable_summary">ଆଣ୍ଟି ଫ୍ଲିକର୍ ମୋଡ୍ “ଡିସି ଡିମିଙ୍ଗ୍” ବ feature ଶିଷ୍ଟ୍ୟ ବ୍ୟବହାର କରି ସ୍ୱଳ୍ପ ଆଲୋକ ଅବସ୍ଥାରେ ଆଖିର ଷ୍ଟ୍ରେନ୍ ହ୍ରାସ କରିବାରେ ସାହାଯ୍ୟ କରେ | ଏହା ରଙ୍ଗର ସଠିକତାକୁ ହ୍ରାସ କରିପାରେ ଏବଂ କିଛି ଆଇଟମ୍ ପ୍ରଦର୍ଶିତ ହେବା ଉପରେ ପ୍ରଭାବ ପକାଇପାରେ |</string>
+    <string name="dc_dimming_title">ଆଣ୍ଟି ଫ୍ଲିକର୍ |</string>
+    <string name="dc_dimming_summary">ଆଣ୍ଟି ଫ୍ଲିକର୍ ମୋଡ୍ “ଡିସି ଡିମିଙ୍ଗ୍” ବ feature ଶିଷ୍ଟ୍ୟ ବ୍ୟବହାର କରି ସ୍ୱଳ୍ପ ଆଲୋକ ଅବସ୍ଥାରେ ଆଖିର ଷ୍ଟ୍ରେନ୍ ହ୍ରାସ କରିବାରେ ସାହାଯ୍ୟ କରେ | ଏହା ରଙ୍ଗର ସଠିକତାକୁ ହ୍ରାସ କରିପାରେ ଏବଂ କିଛି ଆଇଟମ୍ ପ୍ରଦର୍ଶିତ ହେବା ଉପରେ ପ୍ରଭାବ ପକାଇପାରେ |</string>
     <string name="dc_dimming_enable_summary_not_supported">ଆଣ୍ଟି ଫ୍ଲିକର୍ ବର୍ତ୍ତମାନ କର୍ଣ୍ଣଲ ଦ୍ୱାରା ସମର୍ଥିତ ନୁହେଁ |</string>
     <string name="dirac_enable">Mi ଧ୍ଵନି ବର୍ଦ୍ଧକ ବ୍ୟବହାର କରିବା</string>
     <string name="dirac_title">Mi ଧ୍ୱନୀ ବର୍ଦ୍ଧକ</string>

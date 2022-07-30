@@ -16,8 +16,8 @@
 -->
 <resources>
     <string name="display_title">Skärm</string>
-    <string name="dc_dimming_enable_title">Anti-Flimmer</string>
-    <string name="dc_dimming_enable_summary">Anti-flimmer läge hjälper till att reducera ansträngning utav ögonen genom att använda en \"DC dimming\" funktion. Detta kan försämra hur färger återges samt påverka hur vissa saker visas.</string>
+    <string name="dc_dimming_title">Anti-Flimmer</string>
+    <string name="dc_dimming_summary">Anti-flimmer läge hjälper till att reducera ansträngning utav ögonen genom att använda en \"DC dimming\" funktion. Detta kan försämra hur färger återges samt påverka hur vissa saker visas.</string>
     <string name="dc_dimming_enable_summary_not_supported">Anti-flimmer stöds för närvarande inte av kärnan</string>
     <string name="dirac_title">Mi ljudförstärkare</string>
     <string name="dirac_summary">Optimera ljudkvalitet</string>

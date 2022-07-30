@@ -16,8 +16,8 @@
 -->
 <resources>
     <string name="display_title">จอแสดงผล</string>
-    <string name="dc_dimming_enable_title">ป้องกันการกระพริบ</string>
-    <string name="dc_dimming_enable_summary">โหมดป้องกันการสั่นไหวช่วยลดอาการปวดตาในสภาพแสงน้อยโดยใช้คุณสมบัติ \"DC Dimming\" อาจทำให้ความแม่นยำของสีลดลงและส่งผลต่อวิธีการแสดงรายการบางรายการ</string>
+    <string name="dc_dimming_title">ป้องกันการกระพริบ</string>
+    <string name="dc_dimming_summary">โหมดป้องกันการสั่นไหวช่วยลดอาการปวดตาในสภาพแสงน้อยโดยใช้คุณสมบัติ \"DC Dimming\" อาจทำให้ความแม่นยำของสีลดลงและส่งผลต่อวิธีการแสดงรายการบางรายการ</string>
     <string name="dc_dimming_enable_summary_not_supported">เคอร์เนลไม่รองรับการป้องกันการสั่นไหวในขณะนี้</string>
     <string name="dirac_enable">ใช้ตัวเพิ่มประสิทธิภาพเสียง Mi</string>
     <string name="dirac_title">ตัวเพิ่มประสิทธิภาพเสียง Mi</string>

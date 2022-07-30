@@ -16,8 +16,8 @@
 -->
 <resources>
     <string name="display_title">شاشة العرض</string>
-    <string name="dc_dimming_enable_title">مضاد رعش الشاشة </string>
-    <string name="dc_dimming_enable_summary">وضع مضاد رعش الشاشة يساعد على تقليل إجهاد العين في ظروف الإضاءة المنخفضة باستخدام خاصية \"التعتيم باستخدام التيار المستمر\". ربما يقلل ذلك من دقة الألوان ويؤثر في كيفية عرض بعض العناصر.</string>
+    <string name="dc_dimming_title">مضاد رعش الشاشة </string>
+    <string name="dc_dimming_summary">وضع مضاد رعش الشاشة يساعد على تقليل إجهاد العين في ظروف الإضاءة المنخفضة باستخدام خاصية \"التعتيم باستخدام التيار المستمر\". ربما يقلل ذلك من دقة الألوان ويؤثر في كيفية عرض بعض العناصر.</string>
     <string name="dc_dimming_enable_summary_not_supported">وضع مضاد رعش الشاش  غير مدعوم بواسطة Kernal </string>
     <string name="dirac_enable">استخدم محسن الصوت من Mi</string>
     <string name="dirac_title">محسن صوت Mi</string>

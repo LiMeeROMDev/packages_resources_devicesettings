@@ -16,8 +16,8 @@
 -->
 <resources>
     <string name="display_title">Görüntü</string>
-    <string name="dc_dimming_enable_title">Titreme önleme</string>
-    <string name="dc_dimming_enable_summary">Titreşim önleyici mod, \"DC karartma\" özelliğini kullanarak düşük ışık koşullarında göz yorgunluğunu azaltmaya yardımcı olur. Renk doğruluğunu düşürebilir ve bazı öğelerin görüntülenme şeklini etkileyebilir.</string>
+    <string name="dc_dimming_title">Titreme önleme</string>
+    <string name="dc_dimming_summary">Titreşim önleyici mod, \"DC karartma\" özelliğini kullanarak düşük ışık koşullarında göz yorgunluğunu azaltmaya yardımcı olur. Renk doğruluğunu düşürebilir ve bazı öğelerin görüntülenme şeklini etkileyebilir.</string>
     <string name="dc_dimming_enable_summary_not_supported">Titreme önleme şu anda çekirdek tarafından desteklenmiyor</string>
     <string name="dirac_enable">Mi Ses Artırıcı Kullan</string>
     <string name="dirac_title">Mi Ses Yükseltici</string>
