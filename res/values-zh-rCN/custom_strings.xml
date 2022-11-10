@@ -104,7 +104,7 @@
     <string name="moto_actions_title">Moto 操作</string>
     <string name="device_gestures_title">设备手势</string>
     <string name="device_gestures_summary">管理设备手势</string>
-    <string name="ambient_display_manage_summary">管理环境显示手势</string>
+    <string name="ambient_display_manage_summary">管理主动显示手势</string>
     <string name="fingerprint_gestures_title">指纹手势</string>
     <string name="fingerprint_gestures_summary">使用指纹手势</string>
     <string name="fingerprint_gestures_manage_summary">管理指纹手势</string>
